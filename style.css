@@ -2,6 +2,7 @@ body .container{
     margin: 20px;
     padding: 20px;
     border-style: none;
+    
 }
 .nav-link{
     margin: 0px 30px;
@@ -11,4 +12,30 @@ body .container{
 }
 .list-group-item{
     font-size: 16px;
+    margin-right: 1rem;
+}
+i{
+    color: gold;
+}
+.card{
+    padding-top: 12px;
+}
+.navbar{
+    width: 100%;
+}
+.pagination{
+    margin-top: 20px;
+    margin-left: 50%;
+}
+p i {
+    color: black;
+    letter-spacing: 3px;
+}
+.footer p{
+    text-align: center;
+
+}
+.footer{
+    border-top: 1px solid;
+    padding-top: 50px;
 }
