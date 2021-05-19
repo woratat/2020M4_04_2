@@ -1,8 +1,5 @@
-body .container{
-    margin: 20px;
-    padding: 20px;
+body{
     border-style: none;
-    
 }
 .nav-link{
     margin: 0px 30px;
@@ -12,7 +9,6 @@ body .container{
 }
 .list-group-item{
     font-size: 16px;
-    margin-right: 1rem;
 }
 i{
     color: gold;
@@ -25,7 +21,7 @@ i{
 }
 .pagination{
     margin-top: 20px;
-    margin-left: 50%;
+    margin-left: 7rem;
 }
 p i {
     color: black;
@@ -33,9 +29,19 @@ p i {
 }
 .footer p{
     text-align: center;
-
 }
 .footer{
     border-top: 1px solid;
     padding-top: 50px;
+}
+.col-4 input,.col-2 button{
+    margin-top: 50px;
+}
+.footer input{ 
+    width: 500px;
+    margin-left: 700px;
+    margin-bottom: 25px;
+}
+.footer button{
+    margin-bottom: 25px;
 }
