@@ -3,3 +3,9 @@ body .container{
     padding: 20px;
     border-style: none;
 }
+.nav-link{
+    margin: 0px 30px;
+}
+.breadcrumb{
+    font-size: 14px;
+}
